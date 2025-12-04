@@ -1,3 +1,7 @@
 numpy
 matplotlib
 scikit-learn
+
+gymnasium[all]
+swig
+pygame
